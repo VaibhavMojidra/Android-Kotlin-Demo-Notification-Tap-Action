@@ -1,0 +1,2 @@
+rootProject.name = "Tap Action Notification Demo Kotlin"
+include ':app'
